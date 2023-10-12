@@ -1,9 +1,10 @@
 {
-"Title": "#توجه",
-"Description": "سلام ، خودتو دوست داشته باش ❤️",
-"Link": "tg://resolve?domain=Vpn_Shield",
-"ColorWave": "#64dd17",
-"ColorWaveTwo": "#4DD0E1",
+"Title": "تیم فارسروید منتشر کرد 😎🔥",
+"Description": "• فیلترشکن جدید و پرسرعت Vpn Plus بر پایه V2ray توسط تیم Farsroid منتشر شد!\nفورا عضو کانالشون بشو و خودتو از شر همه چی راحت کن 😍👇🏻",
+"Link": "tg://join?invite=-oyxpRFgL7tlZWQ0",
+"ColorWave": "#6200EA",
+"Color": "#6200EA",
+"ColorWaveTwo": "#7C4DFF",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -13,12 +14,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "true",
-"MessageID": "1",
-"ShowTime": "10",
-"Button": "عضویت",
-"ButtonCancell": " بعدا ",
+"Cancellable": "false",
+"MessageID": "018039284847736667382884",
+"ShowTime": "4",
+"Button": "  عضویت و دانلود اجباری  ",
+"ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
 }
-
