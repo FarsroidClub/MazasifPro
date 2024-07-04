@@ -1,10 +1,10 @@
 {
 "Title": "❌ اطلاعیه #مهم ❌",
 "Description": "با توجه به اختلالات سراسری و جلوگیری از قطع اینترنت شما ، لازمه فورا داخل کانال پشتیبان برنامه عضو شوید ، در غیر این صورت با قطعی مواجه میشوید 🙏🏻❤️",
-"Link": "tg://join?invite=Dy6xZVgTQFc4ODNk",
-"ColorWave": "#FF3D00",
-"Color": "#FF3D00",
-"ColorWaveTwo": "#FFFF00",
+"Link": "tg://join?invite=K65bWXU-Wt84ZmNk",
+"ColorWave": "#FFA500",
+"Color": "#FFA500",
+"ColorWaveTwo": "#CC8400",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,7 +15,7 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "987554321",
+"MessageID": "80371111738",
 "ShowTime": "3",
 "Button": " عضویت اجباری ",
 "ButtonCancell": "  ",
